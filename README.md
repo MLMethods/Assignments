@@ -4,8 +4,6 @@
 
 ## Список
 
-https://nbviewer.jupyter.org/github/MLMethods/Assignments/blob/master/notebooks/A1_Analytics.ipynb
-
 - A1. [Расчет индекса реальной зарплаты](https://nbviewer.jupyter.org/github/MLMethods/Assignments/blob/master/notebooks/A1_Analytics.ipynb)
 - A1. [Индекс коррупции](https://nbviewer.jupyter.org/github/MLMethods/Assignments/blob/master/notebooks/A1_Descriptive_Analysis.ipynb)
 - A1. [Корреляция](https://nbviewer.jupyter.org/github/MLMethods/Assignments/blob/master/notebooks/A1_Correlation.ipynb)

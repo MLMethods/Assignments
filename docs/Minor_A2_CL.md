@@ -117,6 +117,9 @@ from plot_confusion_matrix import plot_confusion_matrix
 from sklearn.model_selection import StratifiedKFold
 ```
 
+⚠️ **Замечание.** Процесс обучения может занять минут 5. Для отслеживания хода обучения установите параметр `verbose` равным 2 в `GridSearchCV`
+
+
 - Отобразите результаты для лучших моделей в виде датафрейма с указанием параметров моделей
 
 Примерный вид вывода:

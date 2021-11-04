@@ -75,8 +75,14 @@ from sklearn.metrics import classification_report
 
 4. Отобразите матрицу ошибок классификатора с указанием активностей
 
+⚠️ **Замечание.** В зависимости от версии `sklearn`
+
 ```python
-from sklearn.metrics import confusion_matrix
+from sklearn.metrics import plot_confusion_matrix
+
+# или
+
+from sklearn.metrics import ConfusionMatrixDisplay
 
 # или
 

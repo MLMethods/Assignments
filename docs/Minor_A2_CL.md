@@ -2,6 +2,10 @@
 
 Папулин С.Ю. (papulin.study@yandex.ru)
 
+## Цель работы
+
+Приобрести опыт решения практических задач по машинному обучения, таких как анализ и визуализация исходных данных, обучение, выбор и оценка качества моделей предсказания, посредством языка программирования Python.
+
 ## Набор данных
 
 Описание: [Human Activity Recognition Using Smartphones Data Set](https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)

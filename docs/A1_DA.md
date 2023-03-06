@@ -30,6 +30,7 @@ print("задача № 2 - вариант: ", variant % 4 + 1)
 В качестве индикатора далее необходимо использовать контроль над коррупцией (Control of Corruption) и его показатели `rank` и `estimate`
 
 - [Набор данные](http://info.worldbank.org/governance/wgi/Home/downLoadFile?fileName=wgidataset.xlsx)
+- [Регионы](../data/A1_Descriptive_Analysis/regions.xlsx)
 - [Описание](http://info.worldbank.org/governance/wgi/)
 
 

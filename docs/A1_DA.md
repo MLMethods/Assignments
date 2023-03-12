@@ -29,10 +29,12 @@ print("задача № 2 - вариант: ", variant % 4 + 1)
 
 В качестве индикатора далее необходимо использовать контроль над коррупцией (Control of Corruption) и его показатели `rank` и `estimate`
 
-- [Набор данные](http://info.worldbank.org/governance/wgi/Home/downLoadFile?fileName=wgidataset.xlsx)
-- [Регионы](../data/A1_Descriptive_Analysis/regions.xlsx)
-- [Описание](http://info.worldbank.org/governance/wgi/)
+- Набор данных:
+    - [WGI](http://info.worldbank.org/governance/wgi/Home/downLoadFile?fileName=wgidataset.xlsx)
+    - [Регионы](../data/A1_Descriptive_Analysis/regions.xlsx)
+- [Описание WGI](http://info.worldbank.org/governance/wgi/)
 
+⚠️ **Замечание.** Исходный файл с данными редактировать нельзя.
 
 1. Загрузите данные в DataFrame
 2. Отсортируйте данные по убыванию индекса DataFrame
@@ -69,7 +71,7 @@ print("задача № 2 - вариант: ", variant % 4 + 1)
 
     ⚠️ **Замечание.** У нескольких стран может быть одна и та же позиция в рейтинге из-за одинаковых значений индекса
 
-12. Выведите таблицу для Вашего варианта
+12. Выведите таблицу для ***Вашего варианта*** (WGI - `rank`)
 
 <table border="1" class="dataframe">  <thead>    <tr style="text-align: right;">      <th></th>      <th>Регион</th>      <th>Страна</th>      <th>WGI 1996</th>      <th>WGI 2021</th>      <th>Изменение (см. пункт 11)</th>    </tr>  </thead>  <tbody>    <tr>      <th>mean_2021</th>      <td>-</td>      <td>-</td>      <td>-</td>      <td>-</td>      <td>-</td>    </tr>    <tr>      <th>max_2021</th>      <td>-</td>      <td>-</td>      <td>-</td>      <td>-</td>      <td>-</td>    </tr>    <tr>      <th>min_2021</th>      <td>-</td>      <td>-</td>      <td>-</td>      <td>-</td>      <td>-</td>    </tr>    <tr>      <th>Russia_2021</th>      <td>-</td>      <td>-</td>      <td>-</td>      <td>-</td>      <td>-</td>    </tr>  </tbody></table>
 

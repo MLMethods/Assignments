@@ -21,7 +21,6 @@ d = dict(zip(alp, w))
 variant =  sum([d[el] for el in surname.lower()]) % 40 + 1
 
 print("Задача № 1, шаг 5 - вариант: ", variant % 5 + 1)
-print("Задача № 1, шаг 11 - вариант: ", variant % 2 + 1 )
 print("задача № 2 - вариант: ", variant % 4 + 1)
 ```
 
@@ -64,9 +63,9 @@ print("задача № 2 - вариант: ", variant % 4 + 1)
 
 <img src="img/fig_springfield_region_comb.png">
 
-11. Определите, как изменилось значение показателя `rank` с 1996 по 2023 (`rank`)
+11. Определите, как изменилось значение показателя `pctrank` с 1996 по 2023 (`pctrank`)
 
-12. Выведите таблицу для ***Вашего варианта*** (WGI - `rank`)
+12. Выведите таблицу для ***Вашего варианта*** (WGI - `pctrank`)
 
 <table border="1" class="dataframe">  <thead>    <tr style="text-align: right;">      <th></th>      <th>Регион</th>      <th>Страна</th>      <th>WGI 1996</th>      <th>WGI 2023</th>      <th>Изменение (см. пункт 11)</th>    </tr>  </thead>  <tbody>    <tr>      <th>mean_2023</th>      <td>-</td>      <td>-</td>      <td>-</td>      <td>-</td>      <td>-</td>    </tr>    <tr>      <th>max_2023</th>      <td>-</td>      <td>-</td>      <td>-</td>      <td>-</td>      <td>-</td>    </tr>    <tr>      <th>min_2023</th>      <td>-</td>      <td>-</td>      <td>-</td>      <td>-</td>      <td>-</td>    </tr>    <tr>      <th>Russia_2023</th>      <td>-</td>      <td>-</td>      <td>-</td>      <td>-</td>      <td>-</td>    </tr>  </tbody></table>
 

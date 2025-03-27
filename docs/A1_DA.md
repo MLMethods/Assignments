@@ -67,7 +67,7 @@ print("задача № 2 - вариант: ", variant % 4 + 1)
 
 11. Выведите таблицу для ***Вашего варианта*** (WGI - `pctrank`)
 
-<table border="1" class="dataframe">  <thead>    <tr style="text-align: right;">      <th></th>      <th>Регион</th>      <th>Страна</th>      <th>WGI 1996</th>      <th>WGI 2023</th>      <th>Изменение (см. пункт 11)</th>    </tr>  </thead>  <tbody>    <tr>      <th>mean_2023</th>      <td>-</td>      <td>-</td>      <td>-</td>      <td>-</td>      <td>-</td>    </tr>    <tr>      <th>max_2023</th>      <td>-</td>      <td>-</td>      <td>-</td>      <td>-</td>      <td>-</td>    </tr>    <tr>      <th>min_2023</th>      <td>-</td>      <td>-</td>      <td>-</td>      <td>-</td>      <td>-</td>    </tr>    <tr>      <th>Russia_2023</th>      <td>-</td>      <td>-</td>      <td>-</td>      <td>-</td>      <td>-</td>    </tr>  </tbody></table>
+<table border="1" class="dataframe">  <thead>    <tr style="text-align: right;">      <th></th>      <th>Регион</th>      <th>Страна</th>      <th>WGI 1996</th>      <th>WGI 2023</th>      <th>Изменение (см. пункт 10)</th>    </tr>  </thead>  <tbody>    <tr>      <th>mean_2023</th>      <td>-</td>      <td>-</td>      <td>-</td>      <td>-</td>      <td>-</td>    </tr>    <tr>      <th>max_2023</th>      <td>-</td>      <td>-</td>      <td>-</td>      <td>-</td>      <td>-</td>    </tr>    <tr>      <th>min_2023</th>      <td>-</td>      <td>-</td>      <td>-</td>      <td>-</td>      <td>-</td>    </tr>    <tr>      <th>Russia_2023</th>      <td>-</td>      <td>-</td>      <td>-</td>      <td>-</td>      <td>-</td>    </tr>  </tbody></table>
 
 12. Отобразите диаграмму размаха (`boxplot`) индекса WGI за 2023 для всех стран и для каждого региона в отдельности (на одном графике) (`estimate`)
 

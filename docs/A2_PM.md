@@ -95,15 +95,15 @@ print("Задание № 3. Вариант: ", variant % 3 + 1 )
 ## Задача 3. Классификация текстовых документов (4 балла)
 
 - **Вариант 1.** Набор электронных сообщений (emails)
-    - файл: `data/emails.tsv`
+    - файл: `data/[A3]/emails.tsv`
     - [источник](http://csmining.org/index.php/spam-email-datasets.html)
 
 - **Вариант 2.** Набор SMS сообщений (sms)
-    - файл: `data/SMSSpamCollection`
+    - файл: `data/[A3]/SMSSpamCollection`
     - [источник](https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection)
 
 - **Вариант 3.** Набор рецензий на фильмы (reviews)
-    - файл: `data/reviews.tsv`
+    - файл: `data/[A3]/reviews.tsv`
     - [источник](http://www.cs.cornell.edu/people/pabo/movie-review-data/)
 
 1. Загрузите исходные данные
